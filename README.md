@@ -1,4 +1,4 @@
-(Frame 4.png)
+![banner](Frame 4.png)
 
 ![ppdoli123's github stats](https://github-readme-stats.vercel.app/api?username=ppdoli123&show_icons=true)
 
